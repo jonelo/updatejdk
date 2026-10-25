@@ -32,7 +32,7 @@ On Linux, install the requirements by
 `updatejdk.sh` is a single file. Download it and make it executable:
 
 ```sh
-curl -fsSLO https://raw.githubusercontent.com/jonelo/updatejdk/main/updatejdk.sh
+curl -fsSL -o updatejdk.sh https://bit.ly/updatejdk
 chmod +x updatejdk.sh
 ```
 
